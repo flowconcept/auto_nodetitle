@@ -1,0 +1,5 @@
+{
+    "name": "flowconcept/auto_nodetitle",
+    "type": "drupal-module",
+    "minimum-stability": "dev",
+}
